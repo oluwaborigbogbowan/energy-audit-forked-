@@ -1,0 +1,72 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+/* 
+table {
+  border: 1px solid black;
+}
+
+th,
+td {
+  border: 1px solid black;
+} */
+
+.disable {
+  pointer-events: none;
+}
+button {
+  border: none;
+  background: none;
+}
+.container {
+  background-color: rgba(0, 0, 0, 0.04);
+  min-height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  border-radius: 30px;
+}
+.houseAudit {
+  display: flex;
+  justify-content: center;
+}
+input {
+  height: 30px;
+  border: none;
+  margin-right: 10px;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+.inputs {
+  margin-bottom: 10px;
+}
+.priority {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  min-width: 650px;
+  background-color:;
+}
+.container img {
+  object-fit: fill;
+}
+@media screen and (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+  input {
+    width: 40%;
+  }
+}

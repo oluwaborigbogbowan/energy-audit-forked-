@@ -1,0 +1,69 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "PowerCube",
+      "battery": 480,
+      "inverter": 500,
+      "price": " 485,000",
+      "picture": "https://powerwalker.com/wp-content/uploads/2022/05/10120224_thumbnail.jpg"
+    },
+    {
+      "id": 2,
+      "name": "PowerCube Xtra",
+      "battery": 960,
+      "inverter": 500,
+      "price": " 500,000",
+      "picture": "https://www.swiftermall.com/4381-large_default/afriipower-5000va-48v-pure-sine-wave-inverter-home-ups.jpg"
+    },
+    {
+      "id": 3,
+      "name": "PowerCube2",
+      "battery": 1800,
+      "inverter": 1500,
+      "price": " 600,000",
+      "picture": "https://www.swiftermall.com/4386-large_default/afriipower-2500va-24v-pure-sine-wave-inverter.jpg"
+    },
+    {
+      "id": 4,
+      "name": "PowerCube2 Xtra",
+      "battery": 3600,
+      "inverter": 1500,
+      "price": " 700,000",
+      "picture": "https://cdn.hswstatic.com/gif/dc-ac-power-inverter-1.jpg"
+    },
+
+    {
+      "id": 5,
+      "name": "PowerSlab lite",
+      "battery": 5400,
+      "inverter": 3000,
+      "price": " 800,000",
+      "picture": "https://cdn11.bigcommerce.com/s-x3ki4mm/images/stencil/1280x1280/products/2841/3871/Prag_Pure_Sine_Wave_Inverter_1KVA_12V.bb__79356.1581420433.jpg?c=2?imbypass=on"
+    },
+    {
+      "id": 6,
+      "name": "PowerSlab",
+      "battery": 5400,
+      "inverter": 3000,
+      "price": "900,000",
+      "picture": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-06/angry_chihuahua.png?itok=TWxYDbOT"
+    },
+    {
+      "id": 7,
+      "name": "PowerStation lite",
+      "battery": 5000,
+      "inverter": 5000,
+      "price": " 1,000,000",
+      "picture": "https://www.protectiondogs.co.uk/content/uploads/2022/10/PDW-Castle-32-crop.jpg"
+    },
+    {
+      "id": 8,
+      "name": "PowerStation",
+      "battery": 10000,
+      "inverter": 5000,
+      "price": " 1,700,000",
+      "picture": "https://i.guim.co.uk/img/media/260fa2f0810f1d7e825da17aa07eb31923c4eba8/0_726_4000_2400/master/4000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=be82fc09a5341967681a67fd73b08fc4"
+    }
+  ]
+}
